@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "axe/keyboard": "off",
+    "disown-opener": "off",
+    "button-type": "off",
+    "no-inline-styles": "off"
+  }
+}
